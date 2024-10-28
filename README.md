@@ -82,6 +82,5 @@ Feel free to fork this repository and customize it for your setup. Pull requests
 This project is licensed under the MIT License - see the [LICENSE-MIT.txt](LICENSE-MIT.txt) file for details.
 
 ## Acknowledgments
-
--  I originally forked this from [Mathias Bynens' dotfiles](https://github.com/mathiasbynens/dotfiles)
+- I originally forked this from [Corey M Schafer](https://github.com/CoreyMSchafer/dotfiles)
 -  Thanks to all the open-source projects used in this setup.
